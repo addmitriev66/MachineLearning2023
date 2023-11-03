@@ -3,7 +3,7 @@ from numpy.linalg import LinAlgError
 import scipy
 from datetime import datetime
 from collections import defaultdict
-from scipy.optimize import minimize_scalar, scalar_search_wolfe2
+from scipy.optimize import minimize_scalar
 import time
 from scipy.linalg import cho_factor, cho_solve
 

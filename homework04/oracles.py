@@ -1,6 +1,6 @@
 import numpy as np
 import scipy
-from scipy.special import expit, issparse
+
 
 
 class BaseSmoothOracle(object):
